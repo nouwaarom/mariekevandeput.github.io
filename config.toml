@@ -18,7 +18,7 @@ title = "Marieke van de Put"
     copyright = "© Marieke van de Put"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "Diëtist & Health Specialist"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.svg"
@@ -27,7 +27,7 @@ title = "Marieke van de Put"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/cover-image.png"]
+    images = ["images/cover-image_compressed.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
