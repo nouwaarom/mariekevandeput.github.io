@@ -9,9 +9,6 @@ weight: 3
 header_menu: true
 ---
 
-![Nice picture to make you pay me ;-)](images/bowl.png)
-
-
 Ik kan je begeleiden wanneer je:
 gezonder wil eten;
 volwaardig (meer) plantaardig wil eten
@@ -25,6 +22,8 @@ kinderen volwaardig plantaardig laten eten
 
 ### Hoe ziet een consult eruit?
 Op dit moment biedt ik alleen de mogelijkheid aan tot online consulten. Ik geef advies op maat. Ik zal je daarom altijd allereerst vragen een intakeformulier in te vullen en je voeding een paar dagen bij te houden. Wij zullen via een intakegesprek kennis maken, doelen opstellen en ik zal al veel informatie met je delen. Er is natuurlijk ook genoeg tijd om al je vragen te stellen. Alle informatie die ik met je deel ontvang je achteraf, zodat je alles rustig kan nalezen. In de vervolgconsulten monitoren we je vooruitgang, stellen we nieuwe doelen op en gaan we dieper in op voor jou relevante onderwerpen.
+
+![Online consulten](images/online_consult.jpeg)
 
 ### Tarieven
 Een intakegesprek met mij duurt ongeveer 60-90 minuten. Ik vraag hiervoor €65,-. Vervolgconsulten duren meestal 30-45 minuten en hiervoor reken ik €30,-.
