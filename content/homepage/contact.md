@@ -8,5 +8,6 @@ weight: 5
 # into the header menu at the top of the homepage.
 header_menu: true
 ---
-Je kan mij op verschillende manieren bereiken. Stuur een mailtje naar info@mariekevandeput.nl
-Of stuur me een bericht via instagram als @mariekevandeput
+Je kan mij op verschillende manieren bereiken.  
+{{<icon class="fa fa-envelope">}} dietist.mariekevdput@gmail.com  
+{{<icon class="fa fa-instagram">}} @marieke.van.de.put
