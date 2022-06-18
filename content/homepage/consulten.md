@@ -11,14 +11,14 @@ header_menu: true
 
 Ik kan je begeleiden wanneer je:
 - gezonder wil eten;
-- volwaardig (meer) plantaardig wil eten
-- een gezond(er) lichaamsgewicht wil bereiken en behouden
-- kampt met hypercholesterolemie, hypertensie of dyslipidemie
-- hart- en vaatziekten of diabetes type 2 hebt
-- een reumatische aandoening hebt, zoals jicht, artrose of reumatoïde arthritis
-- maag- of darmklachten, zoals brandend maagzuur of obstipatie
-- advies wil over voeding rondom de zwangerschap
-- kinderen volwaardig plantaardig wil laten eten
+- volwaardig (meer) plantaardig wil eten;
+- een gezond(er) lichaamsgewicht wil bereiken en behouden;
+- kampt met hypercholesterolemie, hypertensie of dyslipidemie;
+- hart- en vaatziekten of diabetes type 2 hebt;
+- een reumatische aandoening hebt, zoals jicht, artrose of reumatoïde arthritis;
+- maag- of darmklachten, zoals brandend maagzuur of obstipatie;
+- advies wil over voeding rondom de zwangerschap;
+- kinderen volwaardig plantaardig wil laten eten.
 
 ### Hoe ziet een consult eruit?
 Op dit moment bied ik alleen de mogelijkheid aan tot online consulten. Ik geef advies op maat. Ik zal je daarom altijd allereerst vragen een intakeformulier in te vullen en je voeding een paar dagen bij te houden. Wij zullen via een intakegesprek kennis maken, doelen opstellen en ik zal al veel informatie met je delen. Er is natuurlijk ook genoeg tijd om al je vragen te stellen. Alle informatie die ik met je deel ontvang je achteraf, zodat je alles rustig kan nalezen. In de vervolgconsulten monitoren we je vooruitgang, stellen we nieuwe doelen op en gaan we dieper in op voor jou relevante onderwerpen.
