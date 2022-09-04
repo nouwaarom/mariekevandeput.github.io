@@ -9,5 +9,6 @@ weight: 5
 header_menu: true
 ---
 Je kan mij op verschillende manieren bereiken.  
-{{<icon class="fa fa-envelope">}} dietist.mariekevdput@gmail.com  
+*Het vorige e-mailadres dat hier stond werkte helaas niet, excuses als u mij hierop gecontacteerd heeft.*
+{{<icon class="fa fa-envelope">}} marieke@t-matix.nl  
 {{<icon class="fa fa-instagram">}} @marieke.van.de.put
