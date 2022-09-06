@@ -9,6 +9,7 @@ weight: 5
 header_menu: true
 ---
 Je kan mij op verschillende manieren bereiken.  
-*Het vorige e-mailadres dat hier stond werkte helaas niet, excuses als u mij hierop gecontacteerd heeft.*
+*Het vorige e-mailadres dat hier stond werkte helaas niet, excuses als u mij hierop gecontacteerd heeft.*  
 {{<icon class="fa fa-envelope">}} marieke@t-matix.nl  
-{{<icon class="fa fa-instagram">}} @marieke.van.de.put
+{{<icon class="fa fa-instagram">}} @marieke.van.de.put  
+{{<icon class="fa fa-location-dot">}} Adres praktijkruimte: Koppestokstraat 87, 2014 AN Haarlem
